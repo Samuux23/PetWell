@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PetWell</string>
+    <string name="image_news_head_description">Description of the news head image</string>
+    <string name="image_news_description_1">Description of the first news image</string>
+    <string name="image_news_description_2">Description of the second news image</string>
+    <string-array name="quantity_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
